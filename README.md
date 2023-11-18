@@ -33,5 +33,5 @@ ii. Rolling Monthly US "Unemployment Benefits" Web Searches vs UNRATE
 
 
 
-The data was visualised using line charts.
-Languages and Tools: Python: Numpy, Pandas, Matplotlib
+**The data was visualised using line charts.
+Languages and Tools: Python: Pandas, Matplotlib**

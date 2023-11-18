@@ -3,6 +3,7 @@
 
 This is a Exploratory Data Analysis project which I conducted over Google Trends, i.e. how much they affects real life.
 <br/>
+<br/>
 This is a data science project that focuses on various aspects of Google Trends. In this project, I am trying to find out how some terms searched on Google affect real life. The collected data is from the USA.
 I did an analysis of Tesla's stock, i.e., how the search volume of Tesla relates to its stock price, how the search volume of Bitcoin relates to its price, and how searching for the term "unemployment benefits" is related to real unemployment at different time stamps.
 1. It was found that as Tesla's web search increases, its stock prices also increase, and vice versa.

@@ -17,7 +17,8 @@ I did an analysis of Tesla's stock, i.e., how the search volume of Tesla relates
    ![download (1)](https://github.com/Taha0229/Google-Trends-Analysis/assets/113607983/ddc1f335-30ff-421e-a3bd-9c42792221ac)
 <br>
 (rolling average)
-![download (2)](https://github.com/Taha0229/Google-Trends-Analysis/assets/113607983/ecb1d185-2c67-4d44-beb6-91424f688991)
+![rolling](https://github.com/Taha0229/Google-Trends-Analysis/assets/113607983/36326944-2577-41c2-b477-9dc8fd6e4187)
+
 
 
 ii. Rolling Monthly US "Unemployment Benefits" Web Searches vs UNRATE
